@@ -1,3 +1,3 @@
-# FrontendChallenge - Swag Labs
+# FrontendChallenge - Samuel Ramirez M
 
-10 test scenarios automated with all bonuses
+Swag Labs - 10 test scenarios automated with all bonuses
