@@ -1,0 +1,15 @@
+{
+  "name": "frontend-challenge",
+  "version": "1.0.0",
+  "description": "Frontend Changenge FullStack Automation training",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "testcafe chrome src/swaglabs/tests/*.test.js -c 2 --reporter json:testResults.json --selector-timeout 10000 --assertion-timeout 10000"
+  },
+  "author": "Samuel Rmz",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,171 @@
+{
+  "startTime": "2020-03-07T19:16:45.883Z",
+  "endTime": "2020-03-07T19:17:32.571Z",
+  "userAgents": [
+    "Chrome 80.0.3987.122 / Windows 10"
+  ],
+  "passed": 11,
+  "total": 11,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\addItemToCart.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Add single item to shopping cart",
+          "meta": {},
+          "errs": [],
+          "durationMs": 8649,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\addMultipleItemsCart.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Add multiple items to shopping cart",
+          "meta": {},
+          "errs": [],
+          "durationMs": 13091,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\completePurchase.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Final order",
+          "meta": {},
+          "errs": [],
+          "durationMs": 12309,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\continueWithMissingData.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Continue with missing information test",
+          "meta": {},
+          "errs": [],
+          "durationMs": 7779,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\fillUserInformation.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Fill user information",
+          "meta": {},
+          "errs": [],
+          "durationMs": 11884,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\finalOrder.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Final order",
+          "meta": {},
+          "errs": [],
+          "durationMs": 12413,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\invalidLogin.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Login with invalid user",
+          "meta": {},
+          "errs": [],
+          "durationMs": 3150,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\logout.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Logout from Products page",
+          "meta": {},
+          "errs": [],
+          "durationMs": 5199,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\navigateToShopping.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Navigate to shopping page",
+          "meta": {},
+          "errs": [],
+          "durationMs": 4885,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "Login Flow",
+      "path": "C:\\Users\\usuario\\Desktop\\Frontend Challenge\\src\\swaglabs\\tests\\validLogin.test.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "Login with valid user",
+          "meta": {},
+          "errs": [],
+          "durationMs": 3834,
+          "screenshotPath": null,
+          "skipped": false
+        },
+        {
+          "name": "Login with Role users",
+          "meta": {},
+          "errs": [],
+          "durationMs": 7076,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
